@@ -1,0 +1,6 @@
+Helium Isotopes	2,325,107	Ice Product			69,753.21 m3	1,964,924,674.63 ISK
+Liquid Ozone	3,860,020	Ice Product			1,544,008 m3	642,577,529.40 ISK
+Nitrogen Isotopes	2,076,019	Ice Product			62,280.57 m3	1,797,894,734.57 ISK
+Oxygen Fuel Block	1,206	Fuel Block			6,030 m3	22,145,090.58 ISK
+Oxygen Isotopes	1,161,518	Ice Product			34,845.54 m3	948,274,910.38 ISK
+Strontium Clathrates	450	Ice Product			1,350 m3	1,621,390.50 ISK
