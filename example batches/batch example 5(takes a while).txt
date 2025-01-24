@@ -1,0 +1,137 @@
+'Malkuth' Rocket Launcher I	3	Missile Launcher Rocket		High	15 m3	6,031.53 ISK
+10000MN Afterburner II	1	Propulsion Module		Medium	1,000 m3	178,569,262.30 ISK
+10000MN Afterburner II		Propulsion Module		Medium	4,000 m3	178,569,262.30 ISK
+100MN Afterburner II	1	Propulsion Module		Medium	5 m3	3,259,234.60 ISK
+10MN Y-S8 Compact Afterburner	1	Propulsion Module		Medium	5 m3	11,650.61 ISK
+1400mm 'Scout' Artillery I	7	Projectile Weapon	Large	High	140 m3	13,640,693.85 ISK
+150mm Prototype Gauss Gun		Hybrid Weapon	Small	High	5 m3	464,517.14 ISK
+150mm Prototype Gauss Gun		Hybrid Weapon	Small	High	5 m3	464,517.14 ISK
+1600mm Steel Plates II	2	Armor Plate		Low	40 m3	7,818,301.12 ISK
+200mm AutoCannon I	23	Projectile Weapon	Small	High	115 m3	583,579.92 ISK
+200mm AutoCannon II	22	Projectile Weapon	Small	High	110 m3	13,603,228.10 ISK
+280mm 'Scout' Artillery I	12	Projectile Weapon	Small	High	60 m3	12,442,514.16 ISK
+280mm Howitzer Artillery I	4	Projectile Weapon	Small	High	20 m3	232,274.36 ISK
+280mm Howitzer Artillery II	7	Projectile Weapon	Small	High	35 m3	5,043,651.55 ISK
+425mm Prototype Gauss Gun	7	Hybrid Weapon	Large	High	140 m3	6,078,002.84 ISK
+50000MN Microwarpdrive I	1	Propulsion Module		Medium	1,000 m3	55,724,807.97 ISK
+50000MN Microwarpdrive I		Propulsion Module		Medium	4,000 m3	55,724,807.97 ISK
+500MN Quad LiF Restrained Microwarpdrive	1	Propulsion Module		Medium	10 m3	721,466.34 ISK
+50MN Cold-Gas Enduring Microwarpdrive	1	Propulsion Module		Medium	10 m3	14,717.32 ISK
+50MN Y-T8 Compact Microwarpdrive	1	Propulsion Module		Medium	10 m3	62,855.23 ISK
+5MN Microwarpdrive I	1	Propulsion Module		Medium	10 m3	51,821.35 ISK
+5MN Y-T8 Compact Microwarpdrive	4	Propulsion Module		Medium	40 m3	1,910,539.52 ISK
+800mm Heavy 'Scout' Repeating Cannon I	7	Projectile Weapon	Large	High	140 m3	3,549,842.94 ISK
+Ballistic Control System II	2	Ballistic Control system		Low	10 m3	2,424,918.30 ISK
+Cap Recharger I	6	Capacitor Recharger		Medium	30 m3	365,855.16 ISK
+Cap Recharger II	16	Capacitor Recharger		Medium	80 m3	9,953,533.44 ISK
+Capacitor Flux Coil II	14	Capacitor Flux Coil		Low	70 m3	11,397,081.36 ISK
+Capacitor Flux Coil II		Capacitor Flux Coil		Low	5 m3	814,077.24 ISK
+Capacitor Flux Coil II		Capacitor Flux Coil		Low	5 m3	814,077.24 ISK
+Capacitor Flux Coil II		Capacitor Flux Coil		Low	5 m3	814,077.24 ISK
+Capacitor Flux Coil II		Capacitor Flux Coil		Low	5 m3	814,077.24 ISK
+Capacitor Flux Coil II		Capacitor Flux Coil		Low	5 m3	814,077.24 ISK
+Capacitor Flux Coil II		Capacitor Flux Coil		Low	5 m3	814,077.24 ISK
+Capacitor Power Relay II	36	Capacitor Power Relay		Low	180 m3	17,924,984.28 ISK
+Capital Ancillary Shield Booster	1	Ancillary Shield Booster	X-Large	Medium	1,000 m3	36,498,403.85 ISK
+Capital Cap Battery II	3	Capacitor Battery		Medium	3,000 m3	52,169,018.70 ISK
+Capital Capacitor Booster I	2	Capacitor Booster		Medium	2,000 m3	94,512,281.00 ISK
+Capital Ghoul Compact Energy Nosferatu	1	Energy Nosferatu		High	1,000 m3	64,136,666.67 ISK
+Capital Processor Overclocking Unit I	6	Rig Core		Rigs	240 m3	22,083,189.90 ISK
+Capital Shield Extender II	1	Shield Extender		Medium	1,000 m3	126,241,376.73 ISK
+Capital Shield Extender II		Shield Extender		Medium	4,000 m3	126,241,376.73 ISK
+Capital Tractor Beam I	2	Tractor Beam		High	2,000 m3	63,947,948.72 ISK
+Compact EM Shield Hardener	3	Shield Hardener		Medium	15 m3	61,356.51 ISK
+Compact Multispectrum Shield Hardener	2	Shield Hardener		Medium	10 m3	320,906.32 ISK
+Compulsive Scoped Multispectral ECM	1	ECM		Medium	5 m3	9,059.85 ISK
+Construction Blocks	31,449	Refined Commodities - Tier 2			47,173.50 m3	278,569,895.67 ISK
+Core Probe Launcher I	1	Scan Probe Launcher		High	5 m3	20,294.36 ISK
+Covert Ops Cloaking Device II	4	Cloaking Device		High	400 m3	25,746,444.44 ISK
+Damage Control II	4	Damage Control		Low	20 m3	1,709,004.12 ISK
+Drone Damage Amplifier II	1	Drone Damage Modules		Low	5 m3	1,146,586.79 ISK
+Drone Link Augmentor I	3	Drone Control Range Module		High	75 m3	983,610.36 ISK
+Drone Link Augmentor II	1	Drone Control Range Module		High	25 m3	1,491,587.07 ISK
+Drone Navigation Computer II	4	Drone Navigation Computer		Medium	20 m3	5,411,948.96 ISK
+EM Shield Hardener II	1	Shield Hardener		Medium	5 m3	1,763,481.37 ISK
+Expanded Probe Launcher I	1	Scan Probe Launcher		High	5 m3	26,296.44 ISK
+Expanded Probe Launcher II	1	Scan Probe Launcher		High	5 m3	1,147,423.93 ISK
+Experimental Jump Drive Economizer	3	Jump Drive Economizer		Low	10,500 m3	89,342,590.92 ISK
+Explosive Armor Hardener II	3	Armor Hardener		Low	15 m3	5,236,571.94 ISK
+Explosive Shield Hardener II	1	Shield Hardener		Medium	5 m3	1,522,747.40 ISK
+Faint Scoped Warp Disruptor	1	Warp Scrambler		Medium	5 m3	11,766.68 ISK
+Fighter Support Unit I	2	Fighter Support Unit		High	2,000 m3	144,046,112.16 ISK
+Fighter Support Unit II		Fighter Support Unit		High	4,000 m3	142,593,554.94 ISK
+Fighter Support Unit II		Fighter Support Unit		High	4,000 m3	142,593,554.94 ISK
+Fighter Support Unit II		Fighter Support Unit		High	4,000 m3	142,593,554.94 ISK
+Fighter Support Unit II		Fighter Support Unit		High	4,000 m3	142,593,554.94 ISK
+Fleeting Compact Stasis Webifier	12	Stasis Web		Medium	60 m3	430,117.68 ISK
+Gyrostabilizer II	3	Gyrostabilizer		Low	15 m3	2,862,002.91 ISK
+Gyrostabilizer II		Gyrostabilizer		Low	5 m3	954,000.97 ISK
+Gyrostabilizer II		Gyrostabilizer		Low	5 m3	954,000.97 ISK
+Heavy Capacitor Booster II	1	Capacitor Booster		Medium	20 m3	1,791,439.52 ISK
+Heavy Capacitor Booster II		Capacitor Booster		Medium	20 m3	1,791,439.52 ISK
+Heavy Infectious Scoped Energy Neutralizer	1	Energy Neutralizer		High	5 m3	157,783.70 ISK
+IFFA Compact Damage Control	1	Damage Control		Low	5 m3	2,693,563.32 ISK
+Improved Cloaking Device II		Cloaking Device		High	100 m3	4,486,163.37 ISK
+Industrial Core I	2	Siege Module		High	2,000 m3	102,654,346.90 ISK
+Inertial Stabilizers II	1	Inertial Stabilizer		Low	5 m3	490,112.72 ISK
+Inertial Stabilizers II		Inertial Stabilizer		Low	5 m3	490,112.72 ISK
+Inertial Stabilizers II		Inertial Stabilizer		Low	5 m3	490,112.72 ISK
+Inertial Stabilizers II		Inertial Stabilizer		Low	5 m3	490,112.72 ISK
+Inertial Stabilizers II		Inertial Stabilizer		Low	5 m3	490,112.72 ISK
+Inertial Stabilizers II		Inertial Stabilizer		Low	5 m3	490,112.72 ISK
+Inertial Stabilizers II		Inertial Stabilizer		Low	5 m3	490,112.72 ISK
+Inertial Stabilizers II		Inertial Stabilizer		Low	5 m3	490,112.72 ISK
+Inertial Stabilizers II		Inertial Stabilizer		Low	5 m3	490,112.72 ISK
+Initiated Compact Warp Disruptor	197	Warp Scrambler		Medium	985 m3	2,144,595.19 ISK
+Initiated Compact Warp Scrambler	162	Warp Scrambler		Medium	810 m3	5,998,284.90 ISK
+Kinetic Armor Hardener II	1	Armor Hardener		Low	5 m3	2,083,058.82 ISK
+Large 'Vehemence' Shockwave Charge	1	Smart Bomb		High	50 m3	664,577.35 ISK
+Large Ancillary Shield Booster	1	Ancillary Shield Booster	Medium	Medium	25 m3	319,355.64 ISK
+Large Solace Scoped Remote Armor Repairer	3	Remote Armor Repairer		High	75 m3	71,475.78 ISK
+Light Missile Launcher I	3	Missile Launcher Light		High	15 m3	30,004.35 ISK
+Mark I Compact Capacitor Power Relay	4	Capacitor Power Relay		Low	20 m3	4,294.36 ISK
+Medium Ancillary Current Router I	25	Rig Core		Rigs	250 m3	76,451,643.75 ISK
+Medium Capacitor Control Circuit I	17	Rig Core		Rigs	170 m3	16,414,126.11 ISK
+Medium EM Shield Reinforcer I	6	Rig Shield		Rigs	60 m3	605,691.24 ISK
+Medium Energy Nosferatu II	1	Energy Nosferatu		High	5 m3	3,887,803.23 ISK
+Medium Thermal Shield Reinforcer I	3	Rig Shield		Rigs	30 m3	383,611.29 ISK
+Medium Warhead Rigor Catalyst I	1	Rig Launcher		Rigs	10 m3	975,578.89 ISK
+Micro Auxiliary Power Core I	9	Auxiliary Power Core		Low	180 m3	3,369,977.46 ISK
+Mining Foreman Burst I	6	Command Burst		High	360 m3	3,125,805.72 ISK
+Mining Laser Upgrade I	8	Mining Upgrade		Low	40 m3	327,409.84 ISK
+Modal Light Ion Particle Accelerator I	4	Hybrid Weapon	Small	High	20 m3	626,944.04 ISK
+Multispectrum Energized Membrane II	1	Energized Armor Membrane		Low	5 m3	658,289.12 ISK
+Multispectrum Shield Hardener II	4	Shield Hardener		Medium	20 m3	8,649,640.20 ISK
+Networked Sensor Array		Capital Sensor Array		High	4,000 m3	43,041,022.60 ISK
+Peripheral Compact Target Painter	146	Target Painter		Medium	730 m3	790,293.62 ISK
+Phased Muon Scoped Sensor Dampener	2	Sensor Dampener	Small	Medium	10 m3	26,011.14 ISK
+Power Diagnostic System II	3	Power Diagnostic System		Low	15 m3	2,365,835.76 ISK
+Prototype 'Arbalest' Rapid Light Missile Launcher	34	Missile Launcher Rapid Light		High	340 m3	115,350,449.86 ISK
+Prototype 'Arbalest' Torpedo Launcher	36	Missile Launcher Torpedo		High	720 m3	4,532,125.68 ISK
+Prototype Hyperspatial Accelerator		Warp Accelerator		Low	5 m3	105,360,711.19 ISK
+Rapid Light Missile Launcher I	5	Missile Launcher Rapid Light		High	50 m3	156,678.25 ISK
+Rapid Light Missile Launcher II	5	Missile Launcher Rapid Light		High	50 m3	4,656,193.60 ISK
+Sensor Booster II	4	Sensor Booster	Small	Medium	20 m3	5,021,209.16 ISK
+Sensor Booster II		Sensor Booster	Small	Medium	5 m3	1,255,302.29 ISK
+Small Azeotropic Restrained Shield Extender	5	Shield Extender		Medium	25 m3	497,783.30 ISK
+Small Capacitor Control Circuit I	55	Rig Core		Rigs	275 m3	10,308,658.80 ISK
+Small Compact Pb-Acid Cap Battery	1	Capacitor Battery		Medium	5 m3	8,263.24 ISK
+Small Energy Neutralizer I	1	Energy Neutralizer		High	5 m3	50,020.55 ISK
+Small Energy Nosferatu I	1	Energy Nosferatu		High	5 m3	64,826.72 ISK
+Small Explosive Armor Reinforcer I	4	Rig Armor		Rigs	20 m3	1,771,559.44 ISK
+Small Processor Overclocking Unit I	8	Rig Core		Rigs	40 m3	421,096.64 ISK
+Small Solace Scoped Remote Armor Repairer	54	Remote Armor Repairer		High	270 m3	146,401.56 ISK
+Small Targeting System Subcontroller I	7	Rig Targeting		Rigs	35 m3	1,529,984.96 ISK
+Small Thermal Armor Reinforcer I	4	Rig Armor		Rigs	20 m3	1,836,010.76 ISK
+Stalwart Restrained Shield Boost Amplifier	1	Shield Boost Amplifier		Medium	5 m3	1,450,850.39 ISK
+Stasis Webifier I	1	Stasis Web		Medium	5 m3	51,944.00 ISK
+Stasis Webifier II	3	Stasis Web		Medium	15 m3	2,880,064.17 ISK
+Strip Miner I	4	Strip Miner		High	100 m3	11,708,915.16 ISK
+Target Spectrum Breaker	1	Target Breaker		Medium	5 m3	55,730.43 ISK
+Thermal Armor Hardener II	3	Armor Hardener		Low	15 m3	6,277,282.92 ISK
+Tracking Computer I	1	Tracking Computer	Small	Medium	5 m3	16,695.38 ISK
+Tracking Computer II	3	Tracking Computer	Small	Medium	15 m3	4,968,073.50 ISK
+Vortex Compact Magnetic Field Stabilizer	3	Magnetic Field Stabilizer		Low	15 m3	1,469,980.83 ISK
+Warp Core Stabilizer I	2	Warp Core Stabilizer		Low	10 m3	57,822.80 ISK
+Warp Scrambler II	1	Warp Scrambler		Medium	5 m3	1,667,130.81 ISK
+X5 Enduring Stasis Webifier	2	Stasis Web		Medium	10 m3	19,425.10 ISK

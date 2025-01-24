@@ -1,0 +1,52 @@
+Barrage L	4,000	Advanced Autocannon Ammo	Large		100 m3	1,866,520.00 ISK
+Barrage S	4,854	Advanced Autocannon Ammo	Small		12.14 m3	385,844.46 ISK
+Caldari Navy Mjolnir Torpedo	1,189	Torpedo			59.45 m3	3,510,415.49 ISK
+Caldari Navy Nova Rocket	552	Rocket			2.76 m3	385,836.96 ISK
+Cap Booster 3200	50	Capacitor Booster Charge	X-Large		6,400 m3	617,111.00 ISK
+Dark Blood Ultraviolet M	1	Frequency Crystal	Medium		1 m3	3,012,754.29 ISK
+Defender Missile I	9,910	Defender Missiles			148.65 m3	95,433.30 ISK
+Domination Carbonized Lead L	1,600	Projectile Ammo	Large		40 m3	925,952.00 ISK
+Domination Depleted Uranium L	800	Projectile Ammo	Large		20 m3	10,718,536.00 ISK
+Domination Fusion L	800	Projectile Ammo	Large		20 m3	14,747,544.00 ISK
+Domination Nuclear L	800	Projectile Ammo	Large		20 m3	812,480.00 ISK
+Domination Phased Plasma L	800	Projectile Ammo	Large		20 m3	21,485,624.00 ISK
+ECCM Script	2	Sensor Booster Script	Small		2 m3	13,904.90 ISK
+Electron Bomb	2	Bomb			150 m3	3,109,064.50 ISK
+EMP S	5,720	Projectile Ammo	Small		14.30 m3	153,696.40 ISK
+Hail L	4,540	Advanced Autocannon Ammo	Large		113.50 m3	2,441,566.60 ISK
+Hail S	43,280	Advanced Autocannon Ammo	Small		108.20 m3	3,769,255.20 ISK
+Hail XL	674	Advanced Autocannon Ammo	X-Large		84.25 m3	1,887,132.60 ISK
+Mercoxit Mining Crystal I	20	Mercoxit Mining Crystal	Small		120 m3	6,003,007.40 ISK
+Mining Laser Field Enhancement Charge	2,647	Mining Foreman Burst Charges			26.47 m3	677,737.88 ISK
+Mining Laser Optimization Charge	2,705	Mining Foreman Burst Charges			27.05 m3	619,282.70 ISK
+Mjolnir Fury Light Missile	5,085	Advanced Light Missile			76.27 m3	450,988.65 ISK
+Nanite Repair Paste	700	Nanite Repair Paste			7 m3	16,365,496.00 ISK
+Navy Cap Booster 150	63	Capacitor Booster Charge	Medium		283.50 m3	2,959,851.51 ISK
+Navy Cap Booster 3200	72	Capacitor Booster Charge	X-Large		6,912 m3	62,069,435.28 ISK
+Navy Cap Booster 800	36	Capacitor Booster Charge	Large		864 m3	7,497,046.80 ISK
+Nova Fury Light Missile	31,100	Advanced Light Missile			466.50 m3	2,813,306.00 ISK
+Optimal Range Script	5	Tracking Script	Small		5 m3	43,480.50 ISK
+Quake S	14,080	Advanced Artillery Ammo	Small		35.20 m3	997,849.60 ISK
+Republic Fleet Depleted Uranium L	900	Projectile Ammo	Large		22.50 m3	1,274,238.00 ISK
+Republic Fleet EMP L	6,000	Projectile Ammo	Large		150 m3	8,116,800.00 ISK
+Republic Fleet EMP S	2,080	Projectile Ammo	Small		5.20 m3	1,236,705.60 ISK
+Republic Fleet EMP S	800	Projectile Ammo	Small		2 m3	475,656.00 ISK
+Republic Fleet Fusion L	6,000	Projectile Ammo	Large		150 m3	8,407,440.00 ISK
+Republic Fleet Fusion S	100	Projectile Ammo	Small		0.25 m3	54,819.00 ISK
+Republic Fleet Fusion S	800	Projectile Ammo	Small		2 m3	438,552.00 ISK
+Republic Fleet Nuclear L	4,900	Projectile Ammo	Large		122.50 m3	6,072,766.00 ISK
+Republic Fleet Nuclear S	800	Projectile Ammo	Small		2 m3	361,720.00 ISK
+Republic Fleet Phased Plasma L	6,000	Projectile Ammo	Large		150 m3	8,800,380.00 ISK
+Republic Fleet Proton L	4,000	Projectile Ammo	Large		100 m3	6,028,920.00 ISK
+Republic Fleet Titanium Sabot L	4,900	Projectile Ammo	Large		122.50 m3	6,479,662.00 ISK
+Scan Resolution Dampening Script	3	Sensor Dampener Script	Small		3 m3	19,991.22 ISK
+Scan Resolution Script	4	Sensor Booster Script	Small		4 m3	38,278.48 ISK
+Sisters Combat Scanner Probe	8	Scanner Probe			8 m3	3,210,278.00 ISK
+Sisters Core Scanner Probe	16	Scanner Probe			1.60 m3	5,964,859.20 ISK
+Targeting Range Dampening Script	3	Sensor Dampener Script	Small		3 m3	30,705.00 ISK
+Targeting Range Script	4	Sensor Booster Script	Small		4 m3	38,894.72 ISK
+Tracking Speed Script	6	Tracking Script	Small		6 m3	63,582.12 ISK
+Tremor S	2,680	Advanced Artillery Ammo	Small		6.70 m3	238,064.40 ISK
+Wings of Victory Firework	100	Festival Charges			10 m3	241,408.00 ISK
+Yoiul Blizzard Firework	100	Festival Charges			10 m3	546,971.00 ISK
+Yoiul Festival Firework	100	Festival Charges			10 m3	317,905.00 ISK
